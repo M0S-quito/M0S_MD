@@ -1,0 +1,23 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/M0S-quito/M0S_MD#readme",
+  "bugs": {
+    "url": "https://github.com/M0S-quito/M0S_MD/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M0S-quito/M0S_MD.git"
+  },
+  "license": "MIT",
+  "author": "M0S_quito",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
